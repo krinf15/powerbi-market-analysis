@@ -157,4 +157,4 @@ Pour uniformiser, il faut basculer la langue de l'application (*Fichier → Opti
 ---
 
 👤 **Carine FOTSO** — Data Analyst
-[LinkedIn](https://www.linkedin.com/in/carinefotso) · [GitHub](https://github.com/krinf15)
+[LinkedIn](https://www.linkedin.com/in/carine-fotso-783164151) · [GitHub](https://github.com/krinf15)
